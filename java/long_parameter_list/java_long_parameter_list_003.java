@@ -1,0 +1,1 @@
+    public void compactTable(java.nio.ByteBuffer login, java.lang.String tableName, java.nio.ByteBuffer startRow, java.nio.ByteBuffer endRow, java.util.List<IteratorSetting> iterators, boolean flush, boolean wait, CompactionStrategyConfig compactionStrategy) throws AccumuloSecurityException, TableNotFoundException, AccumuloException, org.apache.thrift.TException;

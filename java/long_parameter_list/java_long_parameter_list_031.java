@@ -1,0 +1,1 @@
+    public void getExperimentStatistics(org.apache.airavata.model.security.AuthzToken authzToken, String gatewayId, long fromTime, long toTime, String userName, String applicationName, String resourceHostName, org.apache.thrift.async.AsyncMethodCallback resultHandler) throws org.apache.thrift.TException;
