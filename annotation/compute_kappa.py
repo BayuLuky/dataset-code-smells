@@ -6,7 +6,6 @@
 # Hasil dipakai untuk melaporkan inter-rater reliability di tesis.
 #
 # Membaca otomatis dua file data/labels/annotations_<nama>.csv.
-# Menyimpan tabel ke results/metrics/kappa_table.csv.
 #
 # Jalankan dari folder utama proyek:
 #     python src\data_prep\compute_kappa.py
