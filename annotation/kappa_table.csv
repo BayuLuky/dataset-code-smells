@@ -1,0 +1,5 @@
+scope,n,pct_agreement,cohen_kappa,interpretation
+overall,603,99.2,0.971,Almost perfect
+data_class,345,100.0,1.0,Almost perfect
+feature_envy,146,97.9,0.949,Almost perfect
+god_class,112,98.2,0.962,Almost perfect
