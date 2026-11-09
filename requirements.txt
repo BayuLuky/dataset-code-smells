@@ -1,0 +1,15 @@
+# Versions as documented in the paper (Appendix A). Pin to match your actual run.
+python==3.10.12
+torch==2.1.0
+transformers==4.36.0
+accelerate>=0.25.0
+bitsandbytes==0.41.3
+peft==0.7.0
+scikit-learn==1.3.2
+scipy==1.11.4
+statsmodels==0.14.1
+pandas==2.1.4
+numpy==1.26.2
+matplotlib==3.8.2
+seaborn==0.13.0
+matplotlib-venn==0.11.10

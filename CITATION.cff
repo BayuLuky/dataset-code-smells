@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the paper below."
+title: "Dataset and code for: Evaluating Open-Weight Large Language Models Against Static Analysis for Code Smell Detection"
+authors:
+  - family-names: Istanto
+    given-names: Bayu Luky
+    affiliation: Bina Nusantara University
+  - family-names: Girsang
+    given-names: Abba Suganda
+    affiliation: Bina Nusantara University
+date-released: 2026-11-02
+license: CC-BY-4.0
+repository-code: "https://github.com/BayuLuky/dataset-code-smells"
+preferred-citation:
+  type: conference-paper
+  title: "Evaluating Open-Weight Large Language Models Against Static Analysis for Code Smell Detection"
+  authors:
+    - family-names: Istanto
+      given-names: Bayu Luky
+    - family-names: Girsang
+      given-names: Abba Suganda
+  conference:
+    name: "The 14th International Conference on Orange Technology (ICOT 2026)"
+  year: 2026
